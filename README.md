@@ -1,2 +1,2 @@
-# Data Engineering, Udacity, Nanodegree
+# Data Engineering
 Data Engineering, Udacity, Nanodegree
