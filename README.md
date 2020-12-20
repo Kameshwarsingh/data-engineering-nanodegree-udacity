@@ -15,7 +15,7 @@
         RedShift, AWS
               
  ## 3 Data Lake
- Why traditional Data warehouse approach does not meet demands of Data scientist and realtime business analytics.
+      Why traditional Data warehouse approach does not meet demands of Data scientist and realtime business analytics?
  ### 3.1 Data Lake with Spark
             EMR Cluster Spark, AWS
             
