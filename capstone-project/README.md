@@ -1,11 +1,9 @@
 ## 1 Project Summary
-This project is primarily scoped to illustrate the fitness of modern “Data Engineering Technologies”, such as Spark, Apache Airflow, Redshift, S3 and Cloud infrastructure, in solutioning of large-scale data transformation (Big data ETL, Data lake) which can scale and adapt to growing needs of business and data scientist.
+This project is primarily scoped to illustrate the fitness of modern “Data Engineering Technologies”, such as <i?Spark, Apache Airflow, Redshift, S3 and Cloud infrastructure<i>, in solutioning of large-scale Data Transformation (Big data ETL, Data lake). One of the primary challange of Big data solution is " <b> Scale </b> to demand and <b>Adapt</b> to growing needs of Data-scientist (data-exploration, pattern-recognizition, connecting-data for experiments) and Business ( almost realtime information flow, multiple aspects of data, decision making capability etc.). 
+       
+Although evaluation and fitment of Technology is primary driver, data quality and data size are important factor for success of this project. We will use data set provided by Udacity. Udacity data set is free for its students, good quality and high volume. 
 
-Although evaluation and fitment of technology is primary driver, data quality and data size are important factor for success of this project. We will use data set provided by Udacity. Udacity data set is free for its students, good quality and high volume. 
-
-
-
-
+This project will touch aspects such as Data-gathering, Data-assessment/understanding, Data-modeling, Technology Choices and  Code/Design to provide working model.   At same time we will keep solution simple to understand. 
 
 <hr>
 
