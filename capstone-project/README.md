@@ -3,9 +3,11 @@ This project is primarily scoped to illustrate the fitness of modern “Data Eng
 
 One of the primary challange of Big data solution is  - Scale to Demand and Adapt to growing needs of Data-scientist (data-exploration, pattern-recognizition, connecting-data for experiments) and Business ( almost realtime information flow, multiple aspects of data, decision making capability etc.). 
        
+In this project we will touch multiple aspects such as Data-gathering, Data-assessment/understanding, Data-modeling, BigData Solution stack and Design & Build. Our end deliverable will be end-to-end working-model, ready to be deployed on AWS. We will keep solution simple to understand and easy to be extended.
+
 Although evaluation of “Data Engineering Technologies” is primary driver of this project, appropriate data-quality and data-size are important factor for success of this project. We will use data set provided by Udacity. Udacity data set is free for its students, and is of good quality and high volume. 
 
-In this project we will touch multiple aspects such as Data-gathering, Data-assessment/understanding, Data-modeling, Solution stack and Code/Design. Our end deliverable will be  end-to-end working-model, ready to be deployed on AWS. We will keep solution simple to understand and easy to be extended. 
+ 
 
 <hr>
 
