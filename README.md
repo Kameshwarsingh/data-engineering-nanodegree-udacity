@@ -8,6 +8,11 @@
       Data Modeling using Postgres (Fact and Dimension data model)
       Data Modeling using Apache Cassandra
       When to use and limitations of RDBMS (OLTP, OLAP) or NoSQL data models. 
+      
+<u> Data modeling reads are at </u>
+      https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/data-modeling/project_nonrelationaldatabase/README.md
+      https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/data-modeling/project_relationaldatabase/README.md
+
 
 ## 2 Cloud Data Warehouses and Data Lake
     Big data ecosystem and how to use Spark to work with massive datasets.
@@ -29,4 +34,4 @@
 ## 4 Capstone Project
       Data Enginnering Capstone
 
-Capstone project read is at  -> https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/capstone-project/README.md
+<u> Capstone project read is at </u>  -> https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/capstone-project/README.md
