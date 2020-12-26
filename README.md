@@ -9,7 +9,7 @@
       Data Modeling using Apache Cassandra
       When to use and limitations of RDBMS (OLTP, OLAP) or NoSQL data models. 
       
-<u> Data modeling reads are at </u>
+#### Data modeling reads are at :
       https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/data-modeling/project_nonrelationaldatabase/README.md
       https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/data-modeling/project_relationaldatabase/README.md
 
@@ -34,4 +34,5 @@
 ## 4 Capstone Project
       Data Enginnering Capstone
 
-<u> Capstone project read is at </u>  -> https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/capstone-project/README.md
+#### Capstone project read is at
+      https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/capstone-project/README.md
