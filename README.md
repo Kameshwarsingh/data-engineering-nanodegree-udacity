@@ -10,8 +10,8 @@
       When to use and limitations of RDBMS (OLTP, OLAP) or NoSQL data models. 
       
 #### Data modeling project reads are at :
-      https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/data-modeling/project_nonrelationaldatabase/README.md
-      https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/data-modeling/project_relationaldatabase/README.md
+* https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/data-modeling/project_nonrelationaldatabase/README.md
+* https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/data-modeling/project_relationaldatabase/README.md
 
 <hr>
 
@@ -25,7 +25,7 @@
 
 
 #### Cloud Data Warehouses project read is at :
-      https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/cloud-data-warehouse/Data_Warehouse_Project/README.md
+* https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/cloud-data-warehouse/Data_Warehouse_Project/README.md
   
   <hr>
   
@@ -35,7 +35,7 @@
             EMR Cluster Spark, AWS
             
 ####  Data Lake project read is at :
-      https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/dataLakes-Spark/project-dataLake-Spark/README.md
+* https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/dataLakes-Spark/project-dataLake-Spark/README.md
 
 
  ### 3.2 Data Pipeline      
@@ -44,7 +44,7 @@
       Run data quality checks, track data lineage, and work with data pipelines in production.
 
 ####  Data Pipeline project read is at :
-      https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/dataPipelines-airflow/project_datapipelines_airflow/README.md
+* https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/dataPipelines-airflow/project_datapipelines_airflow/README.md
 
 
 <hr>
@@ -54,4 +54,4 @@
       Data Enginnering Capstone
 
 #### Capstone project read is at
-      https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/capstone-project/README.md
+* https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/capstone-project/README.md
