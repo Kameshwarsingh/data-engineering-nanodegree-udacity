@@ -11,7 +11,7 @@ Although evaluation of “Data Engineering Technologies” is primary driver of 
 
 <hr>
 
-## 2 Primary Objective
+## 2 Primary Use-case
 Project will focus to answer below insights/query and will guide design of LDM (Logical data model) of OLAP (Fact – Dimension model).
 
        a) Insight on visitor type (Student, Tourism, Skilled worker, Business)
