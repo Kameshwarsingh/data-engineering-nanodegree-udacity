@@ -41,7 +41,7 @@
 
  ## 4 Data Pipeline
  ### 4.1 Data Pipeline using Apache Airflow
-      How Airflow simplifies Bigdata workflow and fits well in Cloud and BigData context.
+   How Airflow simplifies Bigdata workflow and fits well in Cloud and BigData context?
          
       Data Pipelines with Airflow (DAG, Operators, Hooks), AWS
       Store big data in a data lake and query it with Spark, AWS
