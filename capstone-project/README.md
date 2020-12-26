@@ -1,5 +1,5 @@
 ## 1 Project Summary
-This project is primarily scoped to illustrate the fitness of modern “Data Engineering Technologies”, such as park, Apache Airflow, Redshift, S3 and Cloud infrastructure; in context of Large-scale Data Transformation (Big data ETL, Data lake). 
+This project is primarily scoped to illustrate the fitness of modern “Data Engineering Technologies”, such as park, Apache Airflow, Redshift, S3 and Cloud infrastructure, in context of Large-scale Data Transformation (Big data ETL, Data lake). 
 
 One of the primary challange of Big data solution is  - Scale to Demand and Adapt to growing needs of Data-scientist (data-exploration, pattern-recognizition, connecting-data for experiments) and Business ( almost realtime information flow, multiple aspects of data, decision making capability etc.). 
        
