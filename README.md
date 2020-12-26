@@ -58,5 +58,5 @@
 ## 5 Capstone Project
       Data Enginnering Capstone
 
-#### Capstone project read is at
+#### Capstone project read is at:
 * https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/capstone-project/README.md
