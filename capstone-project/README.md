@@ -5,7 +5,7 @@ One of the primary challange of BigData solution is  - Scale to Demand and Adapt
        
 In this project we will briefly touch multiple phases and aspects of solution-cycle, such as Data-gathering, Data-assessment/understanding, Data-modeling, BigData Solution stack and Design & Build. Our end deliverable will be end-to-end working-model, ready to be deployed on Cloud, AWS. We will keep design simple and modular, easy to understand and extend.
 
-Although evaluation of “Data Engineering Technologies” is primary driver of this project, but selection of appropriate data-set (data-quality & data-size) is very important factor for success of this project. We will use data set provided by Udacity. Udacity data set is free for its students and is of high-quality & high-volume (more than million records). 
+Although evaluation of “Data Engineering Technologies” is primary driver of this project, but selection of appropriate data-set (data-quality & data-size) is very important factor for success of this project. We will use data set provided by Udacity. Udacity data set is free for its students and is of high-quality & high-volume (more than three million records). 
 
  
 
