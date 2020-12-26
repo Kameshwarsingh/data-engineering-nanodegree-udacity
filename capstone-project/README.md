@@ -163,13 +163,15 @@ Brief on Data Quality Checks
 
 ### 6 Rationale for the choice of tools and technologies for the project.
 #### 6.1 Choice of solution stack and tools
-* This project will use EC2, S3, EMR cluster (Spark), Apache Airflow - will be core components of solution design.
-* S3 – S3 Storage is elastic and scales up/shrinks down effectivly as per demand. S3 sotrage is distributed and b=ehnce good choice for Spark work load processing. Hence it is a very good choice of Big Data workloads.
+* This project will use EC2, S3, EMR cluster (Spark), Apache Airflow - these are core components of solution stack.
+* S3 – S3 Storage is elastic and scales up/shrinks down effectivly as per demand. S3 sotrage is distributed, highly availabel and support high speed I/O. Hence it is a very good choice of Big Data workloads.
 
 * EMR – Spark EMR cluster can scale up/shrink-down as per workload demand. Spark is best at parallel/distributed computing. Hence it is a very good choice of Big Data workloads.
 
 * Apache Airflow – Data pipeline and orchestration. Airflow can manages end to end orchestration of workflow as well as monitor status of each task/job. Airflow has many useful Hooks and Operator already built in for connecting and managing Cloud services. Hence it is a very good choice of Big Data workloads.
+
 2) Propose how often the data should be updated and why.
+
 As per current usecase requirement, data can be update once a day. However, if usecase needs change, data load frequency can be configured to hourly.
 
 #### 6.2 How you would approach the problem differently under the following scenarios.
