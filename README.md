@@ -37,11 +37,16 @@
 ####  Data Lake project read is at :
 * https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/dataLakes-Spark/project-dataLake-Spark/README.md
 
+<hr>
 
- ### 3.2 Data Pipeline      
+ ## 4 Data Pipeline
+ ### 4.1 Data Pipeline using Apache Airflow
+      How Airflow simplifies Bigdata workflow and fits well in Cloud and BigData context.
+         
       Data Pipelines with Airflow (DAG, Operators, Hooks), AWS
       Store big data in a data lake and query it with Spark, AWS
       Run data quality checks, track data lineage, and work with data pipelines in production.
+
 
 ####  Data Pipeline project read is at :
 * https://github.com/Kameshwarsingh/data-engineering-nanodegree-udacity/blob/main/dataPipelines-airflow/project_datapipelines_airflow/README.md
@@ -50,7 +55,7 @@
 <hr>
 
 
-## 4 Capstone Project
+## 5 Capstone Project
       Data Enginnering Capstone
 
 #### Capstone project read is at
